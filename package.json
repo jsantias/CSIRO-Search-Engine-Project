@@ -28,7 +28,7 @@
     "cors": "^2.8.5",
     "elasticsearch": "^15.4.1",
     "express": "^4.16.4",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "python-shell": "^1.0.7"
   }
 }
