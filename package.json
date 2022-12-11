@@ -22,12 +22,12 @@
   },
   "homepage": "https://github.com/AsianJohnBoi/CSIRO-Search-Engine-Project#readme",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "bodybuilder": "^2.2.17",
     "concurrently": "^4.1.0",
     "cors": "^2.8.5",
     "elasticsearch": "^15.4.1",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "lodash": "^4.17.11",
     "python-shell": "^1.0.7"
   }
